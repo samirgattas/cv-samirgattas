@@ -1,0 +1,41 @@
+
+img{
+    display: block;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+section{
+    display: inline-block
+}
+.left{
+    width: 25%;
+    background-color: #003FA7;
+    float: left
+}
+.right{
+    width: 73%;
+    float: right;
+}
+
+.left h2,li,a {
+    color: white;
+}
+
+.left h2{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.right h1{
+    font-size: 250%;
+    color: #003FA7;
+}
+
+progress{
+    
+}
