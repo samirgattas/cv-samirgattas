@@ -6,17 +6,9 @@ img{
     margin-right: auto;
     border-radius: 100%;
 }
-section{
-    display: inline-block
-}
+
 .left{
-    width: 25%;
     background-color: #003FA7;
-    float: left
-}
-.right{
-    width: 73%;
-    float: right;
 }
 
 .left h2,li,a {
